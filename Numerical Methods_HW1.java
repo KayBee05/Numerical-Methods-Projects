@@ -1,6 +1,4 @@
-//Name: Kieun Bae
-//Numerical Methods
-//Fall 2021 CSCI 361-23
+
 //Programming HW 1
 
 public class HW1 {
